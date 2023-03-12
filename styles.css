@@ -88,6 +88,6 @@ body {
 
 @media only screen and (max-width: 600px) {
     #mouse-position {
-        bottom: 15%;
+        bottom: 10%;
     } 
 }
